@@ -1,6 +1,6 @@
-# calculator
+# 拟态UI计算器
 
-## Project setup
+### NPM
 ```
 npm install
 ```
@@ -14,11 +14,5 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 预览图片
+![avatar](src\assets\bc535418d0e3ec9ea352b57a16ff049.jpg)
